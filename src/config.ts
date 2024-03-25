@@ -7,9 +7,9 @@ import type {
 import { LinkPreset } from './types/config'
 
 export const siteConfig: SiteConfig = {
-  title: 'Fuwari',
-  subtitle: 'Demo Site',
-  lang: 'en',
+  title: 'Corvus DDoSKrom',
+  subtitle: 'Hacking',
+  lang: 'es',
   themeHue: 250,
   banner: {
     enable: false,
@@ -24,7 +24,7 @@ export const navBarConfig: NavBarConfig = {
     LinkPreset.About,
     {
       name: 'GitHub',
-      url: 'https://github.com/saicaca/fuwari',
+      url: 'https://github.com/Corvus-DDoSKrom',
       external: true,
     },
   ],
@@ -48,7 +48,7 @@ export const profileConfig: ProfileConfig = {
     {
       name: 'GitHub',
       icon: 'fa6-brands:github',
-      url: 'https://github.com/saicaca/fuwari',
+      url: 'https://github.com/Corvus-DDoSKrom',
     },
   ],
 }
