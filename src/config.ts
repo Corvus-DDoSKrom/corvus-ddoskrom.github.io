@@ -31,14 +31,14 @@ export const navBarConfig: NavBarConfig = {
 }
 
 export const profileConfig: ProfileConfig = {
-  avatar: 'assets/images/demo-avatar.png',
-  name: 'Lorem Ipsum',
-  bio: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
+  avatar: 'assets/images/avatar.png',
+  name: 'Corvus DDoSKrom',
+  bio: 'Pentester Red Team / E|HE / CTF Player',
   links: [
     {
       name: 'Twitter',
       icon: 'fa6-brands:twitter',
-      url: 'https://twitter.com',
+      url: 'https://www.linkedin.com/in/rafael-morinigo-1637491bb/',
     },
     {
       name: 'Steam',
