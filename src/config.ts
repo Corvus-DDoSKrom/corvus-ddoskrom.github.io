@@ -7,7 +7,7 @@ import type {
 import { LinkPreset } from './types/config'
 
 export const siteConfig: SiteConfig = {
-  title: 'Corvus DDoSKrom',
+  title: 'Corvus-DDoSKrom',
   subtitle: 'Hacking',
   lang: 'es',
   themeHue: 250,
