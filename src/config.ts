@@ -19,9 +19,9 @@ export const siteConfig: SiteConfig = {
 
 export const navBarConfig: NavBarConfig = {
   links: [
-    LinkPreset.Home,
+    LinkPreset.Inicio,
     LinkPreset.Archive,
-    LinkPreset.About,
+    LinkPreset.Acerca,
     {
       name: 'GitHub',
       url: 'https://github.com/Corvus-DDoSKrom',
