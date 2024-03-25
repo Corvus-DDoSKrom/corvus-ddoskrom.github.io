@@ -4,30 +4,30 @@ import type { Translation } from '../translation'
 export const es: Translation = {
   [Key.home]: 'Inico',
   [Key.about]: 'Acerca de',
-  [Key.archive]: 'Archive',
+  [Key.archive]: 'Archivos',
 
-  [Key.tags]: 'Tags',
-  [Key.categories]: 'Categories',
-  [Key.recentPosts]: 'Recent Posts',
+  [Key.tags]: 'Etiquetas',
+  [Key.categories]: 'Categorías',
+  [Key.recentPosts]: 'Publicaciones Recientes',
 
-  [Key.comments]: 'Comments',
+  [Key.comments]: 'Comentarios',
 
-  [Key.untitled]: 'Untitled',
-  [Key.uncategorized]: 'Uncategorized',
-  [Key.noTags]: 'No Tags',
+  [Key.untitled]: 'Sin título',
+  [Key.uncategorized]: 'Sin Categoría',
+  [Key.noTags]: 'Sin Etiquetas',
 
-  [Key.wordCount]: 'word',
-  [Key.wordsCount]: 'words',
-  [Key.minuteCount]: 'minute',
-  [Key.minutesCount]: 'minutes',
-  [Key.postCount]: 'post',
-  [Key.postsCount]: 'posts',
+  [Key.wordCount]: 'palabra',
+  [Key.wordsCount]: 'palabras',
+  [Key.minuteCount]: 'minuto',
+  [Key.minutesCount]: 'minutos',
+  [Key.postCount]: 'publicación',
+  [Key.postsCount]: 'publicaciones',
 
-  [Key.themeColor]: 'Theme Color',
+  [Key.themeColor]: 'Tema',
 
-  [Key.more]: 'More',
+  [Key.more]: 'Más',
 
-  [Key.author]: 'Author',
-  [Key.publishedAt]: 'Published at',
-  [Key.license]: 'License',
+  [Key.author]: 'Autor',
+  [Key.publishedAt]: 'Publicado por',
+  [Key.license]: 'Licencia',
 }
