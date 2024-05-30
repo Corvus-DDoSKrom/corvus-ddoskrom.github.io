@@ -3,8 +3,8 @@ import starlight from '@astrojs/starlight';
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://louisescher.github.io',
-  base: '/starlight-ion-theme',
+  site: 'https://corvus-ddoskrom.github.io',
+  base: '/',
   integrations: [starlight({
     title: 'Corvus DDoSKrom',
     logo: {
